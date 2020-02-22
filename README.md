@@ -1,1 +1,5 @@
-# WW_TestAssigment-
+Coding Assigments for QA role at WW USA
+  1. isFileExist
+  2. readTheFile
+  3. Testing WW USA page (using Selenium/Java)
+  4. 500 random number -> get smallest
